@@ -1,0 +1,64 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    background-color: #f2f2f2;
+}
+
+/* navbar css starts here  */
+.bg-light{
+    background-color: #fff!important;
+}
+
+.navbar-brand{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 1.5rem;
+    color: #0c74db!important;
+}
+
+.nav-link{
+    color: #32b2ee!important;
+    font-family: 'Noto Sans JP', sans-serif;
+}
+
+.nav-link:hover{
+    background-color: #f3f1f1;
+}
+/* navbar css ends here  */
+
+.my-info{
+    padding: 2rem 5rem;
+}
+
+.btn-info{
+    padding: 1rem 1.2rem;
+    background-color:#fff!important;
+    color: rgb(53, 151, 243)!important;
+    margin-left: 15px;
+    margin-top: 10px;
+    padding: 0.75rem;
+    transition: all 0.3s;
+}
+
+.btn-info:hover{
+    background-color: rgb(231, 233, 233)!important;
+}
+.img{
+  opacity: 0.5;
+}
+.name{
+  background-color: #464244!important;
+}
+.name1{
+  background-color:  #CDE4F5!important;
+}
+.name2{
+  background-color: white!important;
+}
+.h2{
+  background-color: grey!important;
+}
+.my-info-text-center{
+  font-family: "Times New Roman", Times, serif;
+  text-align: center;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
